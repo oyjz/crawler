@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "oyjz\\crawler": "src"
+      "crawler": "src"
     }
   },
   "homepage": "http://www.oyjz.cn/",
