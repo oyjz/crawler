@@ -1,0 +1,20 @@
+{
+  "name": "oyjz/crawler",
+  "description": "A PHP crawler",
+  "authors": [
+    {
+      "name": "Jin",
+      "email": "hi@oyjz.cn"
+    }
+  ],
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "oyjz\\crawler": "src"
+    }
+  },
+  "homepage": "http://www.oyjz.cn/",
+  "license": "Apache-2.0"
+}
